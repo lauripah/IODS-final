@@ -1,0 +1,14 @@
+---
+author: "Lauri-Pekka Aho"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_depth: 2
+    fig_caption: true
+    fig_width: 6
+    fig_height: 4
+    code_folding: hide
+---
+
+Final assignment of course Introduction to Open Data Science.
