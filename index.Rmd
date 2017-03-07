@@ -20,7 +20,11 @@ By using simple linear regression I studied the data of Italian secondary school
 
 ## Research question
 
-In my final assignment I will take a look at the Italian secondary school student alcohol consumption dataset from UCI Machine Learning Repository. I am interested in analysing the relation between alcohol use, attitude towards parents and family in general and course grades. My hypothesis is that higher alcohol consumption and lower grades leads to  bad quality of family relationship.  
+In my final assignment I will take a look at the Italian secondary school student alcohol consumption dataset from UCI Machine Learning Repository. I am interested in analysing the relation between alcohol use, attitude towards parents and family in general and course grades. My hypothesis is that higher alcohol consumption and lower grades leads to  bad quality of family relationship.
+
+# Link to data wrangling
+
+[Link to my data wrangling part](https://github.com/lauripah/IODS-final/blob/master/data/final_wrangle.R)
 
 # Analysis
 
